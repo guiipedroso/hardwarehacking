@@ -3,5 +3,5 @@
 </p>
 <br>
 <br>
-<h1 align="center"> Eletronics </h1>
+<h1 align="center"> Hardware Hacking </h1>
 <br>
