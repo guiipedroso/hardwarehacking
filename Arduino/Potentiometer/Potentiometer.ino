@@ -1,5 +1,5 @@
 /*
-  Title: 
+  Title: Potentiometer
   Author: Guilherme Pedroso de Lima
   Date: Jan 2023
   Updated: --
